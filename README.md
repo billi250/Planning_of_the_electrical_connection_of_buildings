@@ -122,16 +122,26 @@ score = nombre_de_maisons / coût_total
 - Export des résultats en CSV
 
 ---
+## 🗺️ Intégration SIG – Résultats QGIS
 
-## 🗺️ Intégration SIG et visualisation
+Les données de sortie ont été intégrées dans **QGIS** afin de visualiser
+l’état du réseau électrique **avant** et **après** la planification.
 
-- Les shapefiles sont intégrés dans **QGIS**
-- Une visualisation cartographique des phases de construction a été réalisée
+### 🔴 Avant reconstruction
+- Infrastructures endommagées
+- Aucun ordre de priorité
+- Réseau non optimisé
 
-### Des captures d’écran illustrent :
-- Les infrastructures à reconstruire
-- Les priorités de raccordement
-- Les différentes phases du projet
+![Avant reconstruction – QGIS](images/qgis_avant.png)
+
+---
+
+### 🟢 Après planification
+- Priorisation des bâtiments (hôpital en priorité)
+- Phases de reconstruction visibles
+- Mutualisation des infrastructures
+
+![Après planification – QGIS](images/qgis_apres.png)
 
 ---
 
@@ -326,15 +336,28 @@ score = number_of_houses / total_cost
 - Export results to CSV  
 
 ---
+## 🗺️ Intégration SIG – Résultats QGIS / GIS Integration – QGIS Results
 
-## 🗺️ GIS Integration and Visualization
-- Shapefiles are integrated in **QGIS**  
-- A cartographic visualization of construction phases has been created  
+Les données de sortie ont été intégrées dans **QGIS** afin de visualiser
+l’état du réseau électrique **avant** et **après** la planification.  
+The output data have been integrated into **QGIS** to visualize
+the electrical network **before** and **after** planning.
 
-### Screenshots illustrate:
-- Infrastructures to be rebuilt  
-- Connection priorities  
-- Different project phases  
+### 🔴 Avant reconstruction / Before Reconstruction
+- Infrastructures endommagées / Damaged infrastructures
+- Aucun ordre de priorité / No priority order
+- Réseau non optimisé / Network not optimized
+
+![Avant reconstruction – QGIS / Before – QGIS](images/qgis_avant.png)
+
+---
+
+### 🟢 Après planification / After Planning
+- Priorisation des bâtiments (hôpital en priorité) / Building prioritization (hospital first)
+- Phases de reconstruction visibles / Construction phases visible
+- Mutualisation des infrastructures / Shared infrastructures
+
+![Après planification – QGIS / After – QGIS](images/qgis_apres.png)
 
 ---
 
