@@ -429,7 +429,3 @@ Aggregates infrastructures and calculates:
 - Planning respects the imposed budget phases
 
 
-
-| Avant reconstruction | Après planification |
-|----------------------|---------------------|
-| ![](images/qgis_avant.png) | ![](images/qgis_apres.png) |
