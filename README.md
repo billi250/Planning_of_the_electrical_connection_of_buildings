@@ -137,7 +137,7 @@ score = nombre_de_maisons / coût_total
 
 ## 📁 Structure du projet
 
-
+<pre>
 Planning_of_the_electrical_connection_of_buildings
 ├── main.py
 ├── config.py
@@ -146,9 +146,10 @@ Planning_of_the_electrical_connection_of_buildings
 ├── data/
 │   └── reseau_en_arbre.xlsx
 ├── new_data/
-│   ├── batiments.csv
+│   ├── buildings.csv
 │   └── infra.csv
 └── README.md
+</pre>
 # 🧩 Description du code
 
 ## `main.py`
@@ -339,7 +340,7 @@ score = number_of_houses / total_cost
 
 ## 📁 Project Structure
 
-
+<pre>
 Planning_of_the_electrical_connection_of_buildings
 ├── main.py
 ├── config.py
@@ -351,6 +352,7 @@ Planning_of_the_electrical_connection_of_buildings
 │   ├── buildings.csv
 │   └── infra.csv
 └── README.md
+</pre>
 # 🧩 Code Description
 
 ## `main.py`
