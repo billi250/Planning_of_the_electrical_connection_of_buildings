@@ -108,7 +108,7 @@ Toutes les informations nécessaires à la planification sont contenues dans le 
 
 Métrique utilisée :
 
-```text
+
 score = nombre_de_maisons / coût_total
 ➡️ **Plus le score est élevé, plus le bâtiment est prioritaire**  
 ➡️ **L’hôpital est toujours placé en premier**
@@ -137,7 +137,7 @@ score = nombre_de_maisons / coût_total
 
 ## 📁 Structure du projet
 
-```text
+
 Planning_of_the_electrical_connection_of_buildings
 ├── main.py
 ├── config.py
@@ -314,7 +314,7 @@ All the information needed for planning is contained in the file
 
 Metric used:
 
-```text
+
 score = number_of_houses / total_cost
 ➡️ **The higher the score, the higher the building's priority**  
 ➡️ **The hospital is always placed first**
@@ -339,7 +339,7 @@ score = number_of_houses / total_cost
 
 ## 📁 Project Structure
 
-```text
+
 Planning_of_the_electrical_connection_of_buildings
 ├── main.py
 ├── config.py
